@@ -1,0 +1,12 @@
+// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
+// then press Enter. You can now see whitespace characters in your code.
+public class TiposVariaveis {
+    public static void main(String[]args)throws Exception{
+        double salarioMinimo = 2500;
+
+        short numeroCurto = 1;
+
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = numeroNormal;
+    }
+}
